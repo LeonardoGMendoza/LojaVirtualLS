@@ -1,0 +1,12 @@
+C:\Users\LEONARDO\source\repos\Projeto\LojaVirtualLS\LojaVirtual.Test\bin\Debug\net8.0\LojaVirtual.Test.deps.json
+C:\Users\LEONARDO\source\repos\Projeto\LojaVirtualLS\LojaVirtual.Test\bin\Debug\net8.0\LojaVirtual.Test.dll
+C:\Users\LEONARDO\source\repos\Projeto\LojaVirtualLS\LojaVirtual.Test\bin\Debug\net8.0\LojaVirtual.Test.pdb
+C:\Users\LEONARDO\source\repos\Projeto\LojaVirtualLS\LojaVirtual.Test\obj\Debug\net8.0\LojaVirtual.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEONARDO\source\repos\Projeto\LojaVirtualLS\LojaVirtual.Test\obj\Debug\net8.0\LojaVirtual.Test.AssemblyInfoInputs.cache
+C:\Users\LEONARDO\source\repos\Projeto\LojaVirtualLS\LojaVirtual.Test\obj\Debug\net8.0\LojaVirtual.Test.AssemblyInfo.cs
+C:\Users\LEONARDO\source\repos\Projeto\LojaVirtualLS\LojaVirtual.Test\obj\Debug\net8.0\LojaVirtual.Test.csproj.CoreCompileInputs.cache
+C:\Users\LEONARDO\source\repos\Projeto\LojaVirtualLS\LojaVirtual.Test\obj\Debug\net8.0\LojaVirtual.Test.sourcelink.json
+C:\Users\LEONARDO\source\repos\Projeto\LojaVirtualLS\LojaVirtual.Test\obj\Debug\net8.0\LojaVirtual.Test.dll
+C:\Users\LEONARDO\source\repos\Projeto\LojaVirtualLS\LojaVirtual.Test\obj\Debug\net8.0\refint\LojaVirtual.Test.dll
+C:\Users\LEONARDO\source\repos\Projeto\LojaVirtualLS\LojaVirtual.Test\obj\Debug\net8.0\LojaVirtual.Test.pdb
+C:\Users\LEONARDO\source\repos\Projeto\LojaVirtualLS\LojaVirtual.Test\obj\Debug\net8.0\ref\LojaVirtual.Test.dll
